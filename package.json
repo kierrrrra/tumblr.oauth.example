@@ -1,0 +1,10 @@
+{
+  "name": "tumblr-oauth",
+  "description": "Tumblr OAuth Example",
+  "author": "Tim Gilyazetdinov",
+  "dependencies": {
+    "express": "~3.4.7",
+    "oauth": "~0.9.11",
+    "tumblr.js": "0.0.4"
+  }
+}
